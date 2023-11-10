@@ -1,0 +1,26 @@
+/* Stijl voor h1-koppen */
+h1 {
+    font-size: 24px;
+    color: #333; /* Donkergrijs */
+    margin-bottom: 10px;
+}
+
+/* Stijl voor h2-koppen */
+h2 {
+    font-size: 20px;
+    color: #555; /* Lichtgrijs */
+    margin-top: 20px;
+}
+
+/* Stijl voor paragrafen */
+p {
+    font-size: 16px;
+    color: #666; /* Lichtgrijs */
+    margin-bottom: 10px;
+}
+
+/* Stijl voor links (nog niet aanwezig in de HTML, maar kan worden toegevoegd) */
+a {
+    text-decoration: none; /* Verwijder onderstreping van links */
+    color: #0077cc; /* Blauw */
+}
